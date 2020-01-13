@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "W. Michael Jaggers"
+resume_name:                    "W Michael Jaggers"
 resume_title:                   "Web Developer"
 
 # used for the contact button in _layouts/resume.html
@@ -23,7 +23,7 @@ resume_contact_address:         "13224 NE 186TH ST, HOLT MO"
 resume_header_contact_info:     "13224 NE 186TH ST, HOLT MO • 816.518.1498 • michael.jaggers@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>A technical minded customer service professional experienced in new and creative web development technologies. Adept in HTML5, CSS3, JavaScript, jQuery, Adobe Creative Suite, graphic design, UX principles, and multiple CMS platforms including WordPress.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -39,7 +39,7 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
@@ -52,7 +52,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/michaeljaggers"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://michaeljaggers.com"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_medium_url:            "insert your Medium URL here"
 resume_print_social_links:      true
 
 # Design settings
