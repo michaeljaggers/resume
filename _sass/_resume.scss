@@ -49,7 +49,7 @@
 
   .title-bar {
     @include section_border;
-    margin-top: 2rem;
+    margin-top: 3rem;
     padding: .4rem 0;
     @include clearfix;
 
@@ -81,7 +81,7 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid #c7c7c7;
+  border-top: none;
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
