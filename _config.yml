@@ -23,7 +23,7 @@ resume_contact_address:         "13224 NE 186TH ST, HOLT MO"
 resume_header_contact_info:     "13224 NE 186TH ST, HOLT MO • 816.518.1498 • michael.jaggers@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>A technical minded customer service professional experienced in new and creative web development technologies. Adept in HTML5, CSS3, JavaScript, jQuery, Adobe Creative Suite, graphic design, UX principles, and multiple CMS platforms including WordPress.</p>"
+resume_header_intro: "<p>A technical minded web professional experienced in new and creative web development technologies. Adept in HTML5, CSS3, JavaScript, GitHub, Adobe Creative Suite, graphic design, UX principles, and multiple CMS platforms including WordPress.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,7 +36,7 @@ resume_looking_for_work:        "yes"
 resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        false
-resume_section_skills:          true
+resume_section_skills:          false
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    false
